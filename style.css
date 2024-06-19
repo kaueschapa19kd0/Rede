@@ -1,0 +1,46 @@
+body {
+    font-family: "Comfortaa", sans-serif;
+    text-align: center;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    background-color: #f0f0f0; /* Exemplo de cor de fundo */
+    padding: 20px; /* Exemplo de preenchimento */
+}
+
+nav {
+    text-align: center;
+    border-radius: 0.5rem;
+    background-color: #ccc; /* Exemplo de cor de fundo */
+    padding: 10px; /* Exemplo de preenchimento */
+}
+
+.navbar {
+    /* Estilo específico para o elemento com classe 'navbar' dentro do nav */
+    font-weight: bold;
+    color: #333; /* Exemplo de cor de texto */
+}
+
+button {
+    height: 2rem;
+    width: 8rem;
+    font-family: "Comfortaa", sans-serif;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+    background-color: #02d63081; /* Exemplo de cor de fundo */
+    color: white; /* Cor do texto */
+    border: none;
+    cursor: pointer;
+    margin-top: 10px; /* Exemplo de margem superior */
+}
+article {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 0.5rem;
+    margin-top: 20px;
+}
+
+article h2 {
+    color: #333;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
